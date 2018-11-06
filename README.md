@@ -40,3 +40,5 @@ If you are working on another branch than the master or if you forked a reposito
 about Docker readme refer 
 http://docs.duckietown.org/DT18/opmanual_duckiebot/out/index.html 
 http://docs.duckietown.org/DT18/opmanual_duckiebot/out/preliminaries_docker_basics.html
+https://docker-curriculum.com/
+https://docs.docker.com/get-started/#test-docker-installation
