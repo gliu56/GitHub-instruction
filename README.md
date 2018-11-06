@@ -37,3 +37,6 @@ to see all new branches and checkout to those.
 Open a pull request:
 If you are working on another branch than the master or if you forked a repository and want to propose changes you made into the master, you can open a so-called pull-request. In order to do so, press the corresponding tab in the dashboard of a repository and then press the green button New pull request. You will be asked which branch from which fork you want to merge.
 
+about Docker readme refer 
+http://docs.duckietown.org/DT18/opmanual_duckiebot/out/index.html 
+http://docs.duckietown.org/DT18/opmanual_duckiebot/out/preliminaries_docker_basics.html
